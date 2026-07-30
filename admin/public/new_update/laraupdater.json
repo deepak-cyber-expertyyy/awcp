@@ -1,0 +1,5 @@
+{
+    "version": "2.1.4",
+    "archive": "RELEASE-2.14.zip",
+    "description": "[Added] Subscription Module for users <br/> + [Added] Add Blog Tags <br/> + [Added] Few Quantity available setting <br/> + [Added] Rating On/Off setting <br/> + [Added] Cache management for product & seller create form <br/> + [Added] Add Recently visited products option in featured section <br/> + [Improvements] Added delete option for User product requests <br/>+ [Improvements] Added Block option for sellers <br/> <span style='color:red;'>  ⚠ Update Notice:<br/> This update includes backend library changes.<br/>If the panel does not open after updating:<br/><br/>→ If your server supports Composer:<br/>Run: composer install --no-dev --optimize-autoloader<br/><br/>→ If your server does NOT support Composer:<br/>Replace the entire vendor folder with the vendor folder provided in the update package.(Recommended)<br/><br/>→ After replacing the vendor folder, run the following URL in your browser:<br/> <b>https://yourdomain.com/migration</b><br/></span>"
+}
