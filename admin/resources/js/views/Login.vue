@@ -49,8 +49,6 @@
                         </button>
 
                         <hr>
-                        <router-link to="/seller/login" class="btn btn-primary btn-block btn-lg shadow-lg mt-2">
-                            Seller Panel</router-link>
                         <router-link to="/delivery_boy/login" class="btn btn-primary btn-block btn-lg shadow-lg mt-2">
                             Delivery Boy Panel</router-link>
 
